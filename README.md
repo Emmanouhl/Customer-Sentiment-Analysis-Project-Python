@@ -369,19 +369,19 @@ customer-sentiment-analysis-system/
 │
 └── requirements.txt                  # Project dependencies
 
-## 👨‍💻 Author
+## Author
 
 **Mustapha Emmanuel Oladeji**  
 *Team Captain & Lead Data Analyst*  
 Python Study Group – Team H
 
-📧 **Email:** [mustaphaemmanuelola@gmail.com]  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/mustaphaemmanuelola]  
-🐙 **GitHub:** [https://github.com/Emmanouhl]
+ **Email:** [mustaphaemmanuelola@gmail.com]  
+ **LinkedIn:** [https://www.linkedin.com/in/mustaphaemmanuelola]  
+ **GitHub:** [https://github.com/Emmanouhl]
 
 ---
 
-## 🤝 Collaborators
+## Collaborators
 
 | Role | Name |
 |------|------|
