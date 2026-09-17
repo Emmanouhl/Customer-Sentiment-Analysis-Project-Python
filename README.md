@@ -65,7 +65,6 @@ AfriCart receives hundreds of unstructured customer comments daily. Management c
 | **Countries** | 4 (Nigeria, Ghana, Kenya, South Africa) |
 | **Channels** | 4 (Website, App, WhatsApp, Social Media) |
 | **Product Categories** | 3 (Electronics, Fashion, Groceries) |
-| **Date Range** | January 2026 |
 
 ---
 
