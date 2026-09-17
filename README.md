@@ -181,7 +181,8 @@ Advanced NLP was not used. Instead, a simple **rule-based sentiment classifier**
 | 4 stars | 6 |
 | 5 stars | 9 |
 
-![Customer Rating Distribution](screenshots/rating_distribution.png)
+![Customer Rating Distribution]<img width="480" height="288" alt="image" src="https://github.com/user-attachments/assets/b648fab2-3114-4153-a49a-54633f6875c0" />
+
 *Figure 2: Customer Rating Distribution (30 records)*
 
 ### 7.3 Delivery Analysis
@@ -193,7 +194,8 @@ Advanced NLP was not used. Instead, a simple **rule-based sentiment classifier**
 | Moderate Delay | 8 | 26.7% |
 | Severe Delay | 1 | 3.3% |
 
-![Delivery Delay vs Sentiment](screenshots/delivery_vs_sentiment.png)
+![Delivery Delay vs Sentiment]<img width="494" height="307" alt="image" src="https://github.com/user-attachments/assets/f48987ea-972d-42b5-b93d-e415b9f45073" />
+
 *Figure 3: Delivery Delay vs Sentiment (severe delays always produce negative feedback)*
 
 ### 7.4 Resolution Analysis
@@ -203,7 +205,8 @@ Advanced NLP was not used. Instead, a simple **rule-based sentiment classifier**
 | Resolved | 19 | 63.3% |
 | Unresolved | 11 | 36.7% |
 
-![Resolution Status vs Sentiment](screenshots/resolution_vs_sentiment.png)
+![Resolution Status vs Sentiment]<img width="485" height="352" alt="image" src="https://github.com/user-attachments/assets/9db0326d-498e-4f9c-ba13-1fa846f76fd3" />
+
 *Figure 4: Resolution Status vs Sentiment (unresolved complaints are 100% negative)*
 
 ### 7.5 Negative Feedback by Country
@@ -215,10 +218,12 @@ Advanced NLP was not used. Instead, a simple **rule-based sentiment classifier**
 | Kenya | 1 | 7 | 14.3% |
 | South Africa | 1 | 5 | 20.0% |
 
-![Negative Feedback by Country](screenshots/negative_by_country.png)
+![Negative Feedback by Country]<img width="752" height="494" alt="image" src="https://github.com/user-attachments/assets/1e06c47a-a32f-4aec-bee4-7abdd7aba5eb" />
+
 *Figure 5: Negative Feedback by Country*
 
-![Sentiment by Country](screenshots/sentiment_by_country.png)
+![Sentiment by Country]<img width="512" height="379" alt="image" src="https://github.com/user-attachments/assets/6b9623f1-f06a-4a18-89b9-6443fa1402cf" />
+
 *Figure 6: Sentiment by Country*
 
 ### 7.6 Negative Feedback by Channel
@@ -230,10 +235,36 @@ Advanced NLP was not used. Instead, a simple **rule-based sentiment classifier**
 | WhatsApp | 0 | 6 | 0.0% |
 | Social Media | 6 | 6 | 100.0% |
 
-![Sentiment by Channel](screenshots/sentiment_by_channel.png)
+![Sentiment by Channel]<img width="792" height="504" alt="image" src="https://github.com/user-attachments/assets/07f9d62f-7c5d-47c2-85ab-04d0b580480f" />
+
 *Figure 7: Sentiment by Channel (Social Media 100% negative)*
 
 ---
+
+## Sample Delivery Report Output
+
+<img width="1163" height="644" alt="0" src="https://github.com/user-attachments/assets/2c6c0a00-9226-4bb3-8338-832708c959ab" />
+<img width="1145" height="558" alt="1" src="https://github.com/user-attachments/assets/9f997ac8-13b8-45ef-8ef7-31e105dd58f0" />
+<img width="1153" height="565" alt="2" src="https://github.com/user-attachments/assets/47ff92dc-e038-4c6e-8747-bbf5d7c90174" />
+<img width="1126" height="555" alt="4" src="https://github.com/user-attachments/assets/c565b66e-742a-4c67-847f-3dd0589b360e" />
+<img width="1107" height="556" alt="5" src="https://github.com/user-attachments/assets/f47b85bf-e396-4235-acdd-5bcd89b6af7b" />
+<img width="1150" height="557" alt="6" src="https://github.com/user-attachments/assets/7a0d73ef-1533-4d88-ba1b-46e109aa3481" />
+<img width="1146" height="533" alt="7" src="https://github.com/user-attachments/assets/03dba54b-c4ea-4c78-b05f-2a22f49a1109" />
+<img width="1239" height="558" alt="8" src="https://github.com/user-attachments/assets/2df07793-7318-4046-82d8-02784e5eb5ba" />
+<img width="1119" height="549" alt="9" src="https://github.com/user-attachments/assets/3fcb90c6-a09f-4473-8a08-02ef842962a7" />
+<img width="1138" height="540" alt="10" src="https://github.com/user-attachments/assets/8b75f635-bcc2-4290-844c-5bbbebe09785" />
+<img width="1197" height="553" alt="11" src="https://github.com/user-attachments/assets/ab0452be-529d-4345-9b08-51ca7da7fbc1" />
+
+
+
+
+
+
+
+
+
+
+
 
 ## Key Insights
 
@@ -243,7 +274,8 @@ All 11 unresolved complaints produced negative sentiment. Resolved complaints ha
 ### Finding 2: Delivery Is the Most Common Complaint Category
 **15 out of 30 records (50%)** mention delivery issues. This is by far the largest source of complaints.
 
-![Issue Category](screenshots/issue_category.png)
+![Issue Category]<img width="725" height="452" alt="image" src="https://github.com/user-attachments/assets/d8af7084-6b00-49da-8efd-158ba5dde37d" />
+
 *Figure 8: Issue Category from Customer Feedback Text*
 
 ### Finding 3: Severe Delays Guarantee Negative Sentiment
@@ -352,10 +384,13 @@ These two issues are the **root cause of nearly all negative sentiment**. If Afr
 
 customer-sentiment-analysis-system/
 │
+
 ├── customer_sentiment_analysis.py    # Main analysis script
 │
+
 ├── customer_feedback.csv             # Dataset (synthetic)
 │
+
 ├── README.md                         # Project documentation
 │
 ├── screenshots/                      # Visualizations
