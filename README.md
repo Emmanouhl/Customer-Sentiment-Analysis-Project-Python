@@ -369,3 +369,31 @@ customer-sentiment-analysis-system/
 │   └── issue_category.png
 │
 └── requirements.txt                  # Project dependencies
+
+## 👨‍💻 Author
+
+**Mustapha Emmanuel Oladeji**  
+*Team Captain & Lead Data Analyst*  
+Python Study Group – Team H
+
+📧 **Email:** [mustaphaemmanuelola@gmail.com]  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/mustaphaemmanuelola]  
+🐙 **GitHub:** [https://github.com/Emmanouhl]
+
+---
+
+## 🤝 Collaborators
+
+| Role | Name |
+|------|------|
+| Junior Data Analyst | Ehilawa Blessing Mmesoma |
+| Junior Data Analyst | Nnadiukwu Vivian Glory |
+| Junior Data Analyst | Ekashili Kechukwu Promise |
+
+---
+
+## Acknowledgments
+
+This project was prepared as part of the **Python Study Group (Team H) Project** – Customer Sentiment Analysis System.
+
+**AfriCart Digital Services** – Turning Customer Feedback into Business Intelligence.
