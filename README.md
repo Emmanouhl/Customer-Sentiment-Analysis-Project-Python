@@ -6,14 +6,14 @@ A comprehensive Python-based customer sentiment analysis system that transforms 
 
 ## Table of Contents
 
-- [Project Overview](## Project Overview
+- [## Project Overview
 
 The Customer Sentiment Analysis System is a Python-based tool that processes unstructured customer feedback from AfriCart Digital Services, classifies sentiment, scores customer risk, and generates actionable business recommendations.
 
 - **Markets:** Nigeria, Ghana, Kenya, South Africa
 - **Channels:** Website, App, WhatsApp, Social Media
 - **Records Analyzed:** 30 customer feedback entries
-- **Goal:** Turn raw feedback into business intelligence)
+- **Goal:** Turn raw feedback into business intelligence](#Project-Overview)
 - [Business Problem](#business-problem)
 - [Dataset](#dataset)
 - [Data Dictionary](#data-dictionary)
