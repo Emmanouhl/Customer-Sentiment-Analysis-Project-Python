@@ -165,8 +165,8 @@ Advanced NLP was not used. Instead, a simple **rule-based sentiment classifier**
 
 **Negative Rate: 40%**
 
-![Overall Sentiment Distribution](<img width="742" height="452" alt="image" src="https://github.com/user-attachments/assets/5da9141a-b0fc-4df2-a7e9-00e6c1850b8b" />
-)
+![Overall Sentiment Distribution]<img width="742" height="452" alt="image" src="https://github.com/user-attachments/assets/7ce17026-4ede-4dd7-b5b2-1fb880a50897" />
+
 *Figure 1: Overall Sentiment Distribution (Positive 50%, Neutral 10%, Negative 40%)*
 
 ### 7.2 Customer Rating
