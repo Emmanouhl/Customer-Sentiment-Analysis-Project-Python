@@ -255,17 +255,6 @@ Advanced NLP was not used. Instead, a simple **rule-based sentiment classifier**
 <img width="1138" height="540" alt="10" src="https://github.com/user-attachments/assets/8b75f635-bcc2-4290-844c-5bbbebe09785" />
 <img width="1197" height="553" alt="11" src="https://github.com/user-attachments/assets/ab0452be-529d-4345-9b08-51ca7da7fbc1" />
 
-
-
-
-
-
-
-
-
-
-
-
 ## Key Insights
 
 ### Finding 1: Unresolved Complaints Are 100% Negative
@@ -383,27 +372,38 @@ These two issues are the **root cause of nearly all negative sentiment**. If Afr
 ## Project Structure
 
 customer-sentiment-analysis-system/
-│
 
+│
 ├── customer_sentiment_analysis.py    # Main analysis script
-│
 
+│
 ├── customer_feedback.csv             # Dataset (synthetic)
-│
 
-├── README.md                         # Project documentation
 │
-├── screenshots/                      # Visualizations
+├── README.md                         # Project documentation
+
+│
+├── screenshots/  # Visualizations
+
 │   ├── sentiment_distribution.png
+
 │   ├── rating_distribution.png
+
 │   ├── delivery_vs_sentiment.png
+
 │   ├── resolution_vs_sentiment.png
+
 │   ├── negative_by_country.png
+
 │   ├── sentiment_by_country.png
+
 │   ├── sentiment_by_channel.png
+
 │   └── issue_category.png
+
 │
 └── requirements.txt                  # Project dependencies
+
 
 ## Author
 
